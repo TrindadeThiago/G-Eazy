@@ -1,0 +1,46 @@
+html {
+    background-image: url("../img/bg-g-eazy.jpg");
+    font-family: 'Poppins', sans-serif;
+    color: #26241e;
+}
+body {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #000000;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+h1 {
+    font-family: 'Merienda', cursive;
+    text-align: center;
+}
+.click {
+    font-weight: bold;
+}
+img {
+    width: 500px;
+    height: 700px;
+}
+div {
+    text-align: center;
+}
